@@ -21,14 +21,14 @@
   <div class="item">
     <div class="publication-authors">{{ post.time }}</div>
     <div class="publication-title">{{ post.title }}</div>
-  </div><!--//item-->
-
+  
     {% if post.details %}
     <div class="details">
       {{ post.details | markdownify }}
     </div><!--//details-->
     {% endif %}
 
+  </div><!--//item-->
   {% endfor %}
 
 </section><!--//section-->
