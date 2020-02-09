@@ -61,7 +61,8 @@ news:
         
     posts:
         - time: August 2018
-          title: Bachelor Thesis got nominated for the [CBC-Award](https://www.th-koeln.de/informatik-und-ingenieurwissenschaften/cbc-foerderpreis_21778.php).
+          title: My Bachelor Thesis got nominated for the [CBC-Award](https://www.google.com)
+          #(https://www.th-koeln.de/informatik-und-ingenieurwissenschaften/cbc-foerderpreis_21778.php).
 
 education:
     - degree: MA in Games
