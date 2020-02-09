@@ -123,7 +123,7 @@ educationcomplete:
       university: Hamburg University of Applied Sciences
       time: 2019 - 2020
       details: |
-       Ich entwickel ein Data Pattern und das dazugehörige Plugin für einen auf scripable Objects basierende Architektur, bei der globale Variablen in scriptable Objects deklariert werden. In Unity. Für Game Jams und schnelles prototypen.
+       Ich entwickel ein Data Pattern und das dazugehörige Plugin für einen auf scripable Objects basierende Architektur, bei der globale Variablen über scriptable Objects refferenziert werden. In Unity. Für Game Jams und schnelles prototypen.
 
     - degree: Master Project - Wild Woods
       university: Hamburg University of Applied Sciences
