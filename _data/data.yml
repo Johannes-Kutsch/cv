@@ -111,11 +111,9 @@ projects:
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
             
 educationcomplete:
-    - degree: Master Degree
+    - degree: Master Degree in Games
       university: Hamburg University of Applied Sciences
       time: 2018 - 2020
-      details: |
-       Master degree in Games.
 
     - degree: Master Project - Wild Woods
       university: Hamburg University of Applied Sciences
@@ -134,11 +132,9 @@ educationcomplete:
       details: |
        Ich entwickelte ein Data Pattern und das dazugehörige Plugin für einen auf scripable Objects basierende Architektur, bei der globale Variablen in scriptable Objects deklariert werden. In Unity. Für Game Jams und schnelles prototypen.
 
-    - degree: Bachelor Degree
+    - degree: Bachelor Degree in Media Computer Science
       university: Technical University of Cologne
       time: 2012 - 2017
-      details: |
-       Bachelor degree in Media Computer Science.
 
     - degree: Bachelor Thesis
       university: Technical University of Cologne
