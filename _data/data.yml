@@ -45,6 +45,17 @@ sidebar:
       - item: Boardgames
         link:
 
+    education:
+    - degree: Master Thesis
+      university: Hamburg University of Applied Sciences
+      time: 2018 - 2020
+      details: |
+
+    - degree: Master Project
+      university: Technical University of Cologne
+      time: 2012 - 2017
+      details: |
+
 career-profile:
     title: Career Profile
     summary: |
@@ -61,7 +72,7 @@ news:
 
     posts:
         - time: December 2019
-          title: Wild Woods won the DEP-Award in the category "Ubisoft Newcomer Award - Students".
+          title: Wild Woods was awarded with the DEP-Award in the category "Ubisoft Newcomer Award - Students".
 
         - time: November 2019
           title: Wild Woods got nominated for the [DEP-Award](https://www.deutscherentwicklerpreis.de/) (Deutscher Entwicklerpreis) in the category "Ubisoft Newcomer Award - Students".
@@ -74,18 +85,7 @@ news:
 
         - time: August 2018
           title: My Bachelor Thesis got nominated for the [CBC-Award](https://www.th-koeln.de/informatik-und-ingenieurwissenschaften/cbc-foerderpreis_21778.php) (Cologne Broadcasting Center).
-         
-education:
-    - degree: Master Thesis
-      university: Hamburg University of Applied Sciences
-      time: 2018 - 2020
-      details: |
-
-    - degree: Master Project
-      university: Technical University of Cologne
-      time: 2012 - 2017
-      details: |
-      
+            
 educationcomplete:
     - degree: Master Degree
       university: Hamburg University of Applied Sciences
@@ -115,7 +115,7 @@ educationcomplete:
       university: Technical University of Cologne
       time: 2016-2017
       details: |
-       I studied to what extent different, Monte-Carlo-based, learning algorithms are suitable for solving the nondeterministic game 2048. I came to the conclusion, that medicore results can be reached quickly, but Monte-Carlo-based algorithms can't compete with modern, state of the art, agents.
+       I analyzed to what extent different, Monte-Carlo-based, learning algorithms are capable of solving the nondeterministic game 2048. I came to the conclusion, that medicore results can be reached quickly, but Monte-Carlo-based algorithms can't compete with modern, state of the art, agents.
        The [thesis](http://www.gm.fh-koeln.de/~konen/research/PaperPDF/BA_JohannesKutsch_Final-2017.pdf) got cited in multiple publications. [1](https://arxiv.org/pdf/1907.06508.pdf) [2](http://www.gm.fh-koeln.de/ciopwebpub/Kone19a.d/TR-GBG.pdf)
 
 projects:
