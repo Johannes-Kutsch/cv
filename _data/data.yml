@@ -85,6 +85,30 @@ news:
 
         - time: August 2018
           title: My Bachelor Thesis got nominated for the [CBC-Award](https://www.th-koeln.de/informatik-und-ingenieurwissenschaften/cbc-foerderpreis_21778.php) (Cologne Broadcasting Center).
+
+          
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Wild Woods
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: PGW
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: Pockethealer
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Game Jams
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
             
 educationcomplete:
     - degree: Master Degree
@@ -97,13 +121,18 @@ educationcomplete:
       university: Hamburg University of Applied Sciences
       time: 2018 - 2020
       details: |
-       Master project in Games. 1 Year, together with 3 fellow students
+       Over the span of one year we (3 fellow students & I) developed a vertical slice for the game [Wild Woods](wildwoodsgame.com). My main tasks where:
+       
+          - gameplay programming
+          - world generation
+          - AI
+          - game design
 
     - degree: Master Thesis
       university: Hamburg University of Applied Sciences
       time: 2019 - 2020
       details: |
-       ...
+       Ich entwickelte ein Data Pattern und das dazugehörige Plugin für einen auf scripable Objects basierende Architektur, bei der globale Variablen in scriptable Objects deklariert werden. In Unity. Für Game Jams und schnelles prototypen.
 
     - degree: Bachelor Degree
       university: Technical University of Cologne
@@ -117,30 +146,3 @@ educationcomplete:
       details: |
        I analyzed to what extent different, Monte-Carlo-based, learning algorithms are capable of solving the nondeterministic game 2048. I came to the conclusion, that medicore results can be reached quickly, but Monte-Carlo-based algorithms can't compete with modern, state of the art, agents.
        The [thesis](http://www.gm.fh-koeln.de/~konen/research/PaperPDF/BA_JohannesKutsch_Final-2017.pdf) got cited in multiple publications. [1](https://arxiv.org/pdf/1907.06508.pdf) [2](http://www.gm.fh-koeln.de/ciopwebpub/Kone19a.d/TR-GBG.pdf)
-
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
