@@ -45,6 +45,39 @@ sidebar:
       - item: Boardgames
         link:
 
+news:
+    title: News
+    intro: |
+        
+    
+    posts:
+        - time: July 2019
+          title: Begin Amazon AWS intership with P.Perona in Pasadena, CA
+          
+        - time: July 2019
+          title: One paper accepted at ICCV19
+          
+        - time: January 2019
+          title: Selected as reviewer for ICCV19
+        
+        - time: December 2018
+          title: Selected as reviewer for CVPR19
+        
+        - time: Sptember 2018
+          title: Two papers accepted as orals at GCPR (German Conference for Patter Recognition) as a result of two master thesis which I supervised
+        
+        - time: July 2018
+          title: Attending the International Summer School for Computer Vision (ICVSS) in Sicily, Italy
+        
+        - time: 2018
+          title: Paper accepted as poster at ECCV18 in Munich, Germany
+        
+        - time: 2017
+          title: Attending the Workshop on Behavior Analysis (BAFA, Better Analysis Fewer Animals) in Utrecht, Netherlands
+        
+        - time: 2017
+          title: Paper accepted as poster at CVPR17 in Honolulu, Hawaii
+
 career-profile:
     title: Career Profile
     summary: |
@@ -59,24 +92,56 @@ education:
       university: Hamburg University of Applied Sciences
       time: 2018 - 2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+
     - degree: BSc in Media Computer Science
       university: Technical University of Cologne
       time: 2012 - 2017
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+      
+educationcomplete:
+    - degree: Applied Scientists Intern at Amazon AWS
+      university: P. Perona, Pasadena, CA, USA
+      time: 2019 - current
+      details: |
+
+    - degree: PhD in Computer vision and Machine learning
+      university: Heidelberg University
+      time: 2015 - current
+      details: |
+        Unsupervised deep learning for automatic behavior analysis
+          - Unsupervised learning
+          - Representaion learning
+          - Automatic Behavior Analysis
+
+    - degree: Internship (Master Thesis)
+      university: Tobii
+      time: 2014 - 2015
+      details: |
+        Master thesis topic Hand gesture classification by Deep learning using infrared camera 
+          - Deep learning
+          - Hand Gesture
+          
+    - degree: Master Degree
+      university: KTH (Stockholm, Sweden)
+      time: 2013 - 2015
+      details: |
+        Master degree in Computer Science and Artificial Intelligence
+          - Artificial Intelligence
+          - Machine Learning
+          - Computer Vision
+    
+    - degree: Master Degree
+      university: Politecnico di Torino (Torino, Italy)
+      time: 2012 - 2015
+      details: |
+        Master degree in Software Engineering
+    
+    - degree: Bachelor Degree
+      university: Politecnico di Torino (Torino, Italy)
+      time: 2009 - 2012
+      details: |
+        Master degree in Computer Engineering
+
 projects:
     title: Projects
     intro: >
