@@ -62,8 +62,9 @@ news:
     posts:
         - time: August 2018
           title: My Bachelor Thesis got nominated for the [CBC-Award](https://www.th-koeln.de/informatik-und-ingenieurwissenschaften/cbc-foerderpreis_21778.php).
-          details: | 
-          Was
+          details: |
+       In dieser Arbeit habe ich untersucht, inwieweit unterschiedliche, Monte-Carlo-basierteLernalgorithmen zum Lösen des Spieles 2048 geeignet sind. Ich habe herausgefunden,dass mit ihnen sehr schnell mittelmäßige Ergebnisse erzielt werden können, sie jedochnicht mit den besten Agenten mithalten können.
+
 
 education:
     - degree: MA in Games
