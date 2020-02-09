@@ -58,18 +58,34 @@ career-profile:
 news:
     title: News
     intro: |
+
+    posts:
+        - time: November 2019
+          title: Wild Woods won the DEP-Award in the category "Ubisoft Newcomer Award - Students".
+
+    posts:
+        - time: November 2019
+          title: Wild Woods got nominated for the [DEP-Award](https://www.deutscherentwicklerpreis.de/) in the category "Ubisoft Newcomer Award - Students".
+
+    posts:
+        - time: Juli 2019
+          title: Wild Woods got nominated for the [Ditze-Award](http://www.ditze-stiftung.de/).
         
     posts:
+        - time: November 2018
+          title: My Bachelor Thesis was awarded with the [CBC-Award](https://www.th-koeln.de/hochschule/cbc-foerderpreis-2018_60466.php).
+
+    posts:
         - time: August 2018
-          title: My Bachelor Thesis got nominated for the [CBC-Award](https://www.th-koeln.de/informatik-und-ingenieurwissenschaften/cbc-foerderpreis_21778.php).
+          title: My Bachelor Thesis got nominated for the [CBC-Award](https://www.th-koeln.de/informatik-und-ingenieurwissenschaften/cbc-foerderpreis_21778.php) (Cologne Broadcasting Center).
          
 education:
-    - degree: MA in Games
+    - degree: Master Thesis
       university: Hamburg University of Applied Sciences
       time: 2018 - 2020
       details: |
 
-    - degree: BSc in Media Computer Science
+    - degree: Master Project
       university: Technical University of Cologne
       time: 2012 - 2017
       details: |
@@ -85,7 +101,8 @@ educationcomplete:
       university: Technical University of Cologne
       time: 2016-2017
       details: |
-       In dieser Arbeit habe ich untersucht, inwieweit unterschiedliche, Monte-Carlo-basierteLernalgorithmen zum Lösen des Spieles 2048 geeignet sind. Ich habe herausgefunden,dass mit ihnen sehr schnell mittelmäßige Ergebnisse erzielt werden können, sie jedochnicht mit den besten Agenten mithalten können.
+       In dieser Arbeit habe ich untersucht, inwieweit unterschiedliche, Monte-Carlo-basierteLernalgorithmen zum Lösen des Spieles 2048 geeignet sind. Ich habe herausgefunden,dass mit ihnen sehr schnell mittelmäßige Ergebnisse erzielt werden können, sie jedochnicht mit den besten Agenten mithalten können. http://www.gm.fh-koeln.de/~konen/research/PaperPDF/BA_JohannesKutsch_Final-2017.pdf
+       The thesis got cited in multiple publications. Inside out F_2018
 
     - degree: Bachelor Degree
       university: Technical University of Cologne
