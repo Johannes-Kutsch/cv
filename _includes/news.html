@@ -19,9 +19,12 @@
 
   {% for post in news.posts %}
   <div class="item">
-    <div class="publication-authors">{{ post.time }}</div>
-    <div class="publication-title">{{ post.title }}</div>
-  
+
+    <div class="meta">
+      <div class="publication-authors">{{ post.time }}</div>
+      <div class="publication-title">{{ post.title }}</div>
+    </div><!--//meta-->
+
     {% if post.details %}
     <div class="details">
       {{ post.details | markdownify }}
