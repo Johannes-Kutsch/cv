@@ -78,12 +78,10 @@ news:
           title: Wild Woods got nominated for the [DEP-Award](https://www.deutscherentwicklerpreis.de/) (Deutscher Entwicklerpreis) in the category "Ubisoft Newcomer Award - Students".
 
         - time: May 2019
-          title: |
-          My Bachelor [Thesis](http://www.gm.fh-koeln.de/~konen/research/PaperPDF/BA_JohannesKutsch_Final-2017.pdf) got cited in [General Board Game Playing for Education and Research in Generic AI Game Learning](http://www.gm.fh-koeln.de/ciopwebpub/Kone19a.d/TR-GBG.pdf).
+          title: My Bachelor [Thesis](http://www.gm.fh-koeln.de/~konen/research/PaperPDF/BA_JohannesKutsch_Final-2017.pdf) got cited in [General Board Game Playing for Education and Research in Generic AI Game Learning](http://www.gm.fh-koeln.de/ciopwebpub/Kone19a.d/TR-GBG.pdf).
 
         - time: May 2019
-          title: |
-          My Bachelor [Thesis](http://www.gm.fh-koeln.de/~konen/research/PaperPDF/BA_JohannesKutsch_Final-2017.pdf) got cited in [The GBG Class Interface Tutorial V2.0: General Board Game Playing and Learning](https://arxiv.org/pdf/1907.06508.pdf).
+          title: My Bachelor [Thesis](http://www.gm.fh-koeln.de/~konen/research/PaperPDF/BA_JohannesKutsch_Final-2017.pdf) got cited in [The GBG Class Interface Tutorial V2.0 - General Board Game Playing and Learning](https://arxiv.org/pdf/1907.06508.pdf).
 
         - time: Juli 2019
           title: Wild Woods got nominated for the [Ditze-Award](http://www.ditze-stiftung.de/).
@@ -103,7 +101,7 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Wild Woods
-        link: "#"
+        link: wildwoodsgame.com
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
       - title: PGW
@@ -117,7 +115,11 @@ projects:
       - title: Game Jams
         link: "#"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-            
+
+      - title: DT-Sharing
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
 educationcomplete:
     - degree: Master Degree in Games
       university: Hamburg University of Applied Sciences
