@@ -60,7 +60,7 @@ news:
     intro: |
 
     posts:
-        - time: November 2019
+        - time: November 2017
           title: Wild Woods won the DEP-Award in the category "Ubisoft Newcomer Award - Students".
 
     posts:
@@ -101,7 +101,7 @@ educationcomplete:
       university: Hamburg University of Applied Sciences
       time: 2018 - 2020
       details: |
-       Master degree in Games.
+       Master project in Games. 1 Year, together with 3 fellow students
 
     - degree: Master Thesis
       university: Hamburg University of Applied Sciences
@@ -119,7 +119,7 @@ educationcomplete:
       university: Technical University of Cologne
       time: 2016-2017
       details: |
-       I studied different, to what extent different, Monte-Carlo-based learning algorithms, are suitable for solving the game 2048. I came to the conclusion, that medicore results can be reached quickly, but the can't compete with modern, state of the art, agents.
+       I studied to what extent different, Monte-Carlo-based, learning algorithms are suitable for solving the nondeterministic game 2048. I came to the conclusion, that medicore results can be reached quickly, but Monte-Carlo-based algorithms can't compete with modern, state of the art, agents.
        The [thesis](http://www.gm.fh-koeln.de/~konen/research/PaperPDF/BA_JohannesKutsch_Final-2017.pdf) got cited in multiple publications. Inside out F_2018
 
 projects:
