@@ -60,7 +60,7 @@ news:
     intro: |
 
     posts:
-        - time: November 2019
+        - time: December 2019
           title: Wild Woods won the DEP-Award in the category "Ubisoft Newcomer Award - Students".
 
         - time: November 2019
@@ -116,7 +116,7 @@ educationcomplete:
       time: 2016-2017
       details: |
        I studied to what extent different, Monte-Carlo-based, learning algorithms are suitable for solving the nondeterministic game 2048. I came to the conclusion, that medicore results can be reached quickly, but Monte-Carlo-based algorithms can't compete with modern, state of the art, agents.
-       The [thesis](http://www.gm.fh-koeln.de/~konen/research/PaperPDF/BA_JohannesKutsch_Final-2017.pdf) got cited in multiple publications. Inside out F_2018
+       The [thesis](http://www.gm.fh-koeln.de/~konen/research/PaperPDF/BA_JohannesKutsch_Final-2017.pdf) got cited in multiple publications. [1](https://arxiv.org/pdf/1907.06508.pdf) [2](http://www.gm.fh-koeln.de/ciopwebpub/Kone19a.d/TR-GBG.pdf)
 
 projects:
     title: Projects
