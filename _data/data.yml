@@ -72,10 +72,7 @@ news:
 
     posts:
         - time: December 2019
-          title: m [Wild Woods](http://www.wildwoodsgame.com/) was awarded with the DEP-Award in the category "Ubisoft Newcomer Award - Students".
-
-        - time: November 2019
-          title: m [Wild Woods](http://www.wildwoodsgame.com/) got nominated for the [DEP-Award](https://www.deutscherentwicklerpreis.de/) (Deutscher Entwicklerpreis) in the category "Ubisoft Newcomer Award - Students".
+          title: '[Wild Woods](http://www.wildwoodsgame.com/) was awarded with the [DEP-Award](https://www.deutscherentwicklerpreis.de/) (Deutscher Entwicklerpreis) in the category "Ubisoft Newcomer Award - Students".'
 
         - time: July 2019
           title: My Bachelor [Thesis](http://www.gm.fh-koeln.de/~konen/research/PaperPDF/BA_JohannesKutsch_Final-2017.pdf) got cited in [General Board Game Playing for Education and Research in Generic AI Game Learning](http://www.gm.fh-koeln.de/ciopwebpub/Kone19a.d/TR-GBG.pdf).
@@ -84,13 +81,10 @@ news:
           title: My Bachelor [Thesis](http://www.gm.fh-koeln.de/~konen/research/PaperPDF/BA_JohannesKutsch_Final-2017.pdf) got cited in [The GBG Class Interface Tutorial V2.0 - General Board Game Playing and Learning](https://arxiv.org/pdf/1907.06508.pdf).
 
         - time: Juli 2019
-          title: m [Wild Woods](http://www.wildwoodsgame.com/) got nominated for the [Ditze-Award](http://www.ditze-stiftung.de/).
+          title: '[Wild Woods](http://www.wildwoodsgame.com/) got nominated for the [Ditze-Award](http://www.ditze-stiftung.de/).'
 
         - time: November 2018
-          title: My Bachelor Thesis was awarded with the [CBC-Award](https://www.th-koeln.de/hochschule/cbc-foerderpreis-2018_60466.php).
-
-        - time: August 2018
-          title: My Bachelor Thesis got nominated for the [CBC-Award](https://www.th-koeln.de/informatik-und-ingenieurwissenschaften/cbc-foerderpreis_21778.php) (Cologne Broadcasting Center).
+          title: My Bachelor Thesis was awarded with the [CBC-Award](https://www.th-koeln.de/hochschule/cbc-foerderpreis-2018_60466.php) (Cologne Broadcasting Center).
 
           
 projects:
