@@ -20,7 +20,7 @@
   {% for post in news.posts %}
   <div class="item">
     <div class="publication-authors">{{ post.time }}</div>
-    <div class="publication-title">{{ post.title | markdownify }}</div>
+    <div class="details">{{ post.title | markdownify }}</div>
   </div><!--//item-->
   {% endfor %}
 
