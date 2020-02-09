@@ -125,9 +125,15 @@ educationcomplete:
       university: Hamburg University of Applied Sciences
       time: 2018 - 2020
 
+    - degree: Master Thesis
+      university: Hamburg University of Applied Sciences
+      time: 2019 - 2020
+      details: |
+       Ich entwickel ein Data Pattern und das dazugehörige Plugin für einen auf scripable Objects basierende Architektur, bei der globale Variablen in scriptable Objects deklariert werden. In Unity. Für Game Jams und schnelles prototypen.
+
     - degree: Master Project - Wild Woods
       university: Hamburg University of Applied Sciences
-      time: 2018 - 2020
+      time: 2018 - 2019
       details: |
        Over the span of one year we (3 fellow students & I) developed a vertical slice for the game [Wild Woods](wildwoodsgame.com). My main tasks where:
        
@@ -135,12 +141,6 @@ educationcomplete:
           - world generation
           - AI
           - game design
-
-    - degree: Master Thesis
-      university: Hamburg University of Applied Sciences
-      time: 2019 - 2020
-      details: |
-       Ich entwickelte ein Data Pattern und das dazugehörige Plugin für einen auf scripable Objects basierende Architektur, bei der globale Variablen in scriptable Objects deklariert werden. In Unity. Für Game Jams und schnelles prototypen.
 
     - degree: Bachelor Degree in Media Computer Science
       university: Technical University of Cologne
