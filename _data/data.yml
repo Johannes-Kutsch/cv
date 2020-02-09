@@ -65,7 +65,7 @@ news:
 
     posts:
         - time: November 2019
-          title: Wild Woods got nominated for the [DEP-Award](https://www.deutscherentwicklerpreis.de/) in the category "Ubisoft Newcomer Award - Students".
+          title: Wild Woods got nominated for the [DEP-Award](https://www.deutscherentwicklerpreis.de/) (Deutscher Entwicklerpreis) in the category "Ubisoft Newcomer Award - Students".
 
     posts:
         - time: Juli 2019
@@ -91,6 +91,18 @@ education:
       details: |
       
 educationcomplete:
+    - degree: Master Project: Wild Woods
+      university: Hamburg University of Applied Sciences
+      time: 2018 - 2020
+      details: |
+       Master degree in Games.
+
+    - degree: Master Degree
+      university: Hamburg University of Applied Sciences
+      time: 2018 - 2020
+      details: |
+       Master degree in Games.
+
     - degree: Master Degree
       university: Hamburg University of Applied Sciences
       time: 2018 - 2020
