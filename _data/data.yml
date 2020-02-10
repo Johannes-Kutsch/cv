@@ -104,13 +104,9 @@ projects:
         link: "#hook"
         tagline: "A fully functional prototype of an overcooked clone, but with witches that need to grow and catch living plants to brew potions. It also supports online multiplayer."
 
-      - title: Potion Garden Witch
-        link: "#hook"
-        tagline: "A fully functional prototype of an overcooked clone, but with witches that need to grow and catch living plants to brew potions. It also supports online multiplayer."
-
       - title: Game Jams
         link: "https://ruhken.itch.io/"
-        tagline: "During the last few years I participated in some game jams. Most of the resulting games can be found on my itch page."
+        tagline: "During the last few years I participated in a few game jams. Some of the resulting games can be found on my itch page."
 
       - title: Pockethealer
         link: "https://github.com/Johannes-Kutsch/Pocket-Healer"
