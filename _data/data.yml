@@ -86,7 +86,7 @@ projects:
     title: Projects
     intro: >
 
-
+    
     assignments:
       - title: Wild Woods
         link: http://www.wildwoodsgame.com/
@@ -106,7 +106,7 @@ projects:
 
       - title: DT-Sharing
         link: "https://github.com/Johannes-Kutsch/EISSS16FriesenKutsch/blob/master/README.md"
-        tagline: "A platform that matches people intending to use the same train route so they can share a ticket."
+        tagline: "We (I & [a fellow student](https://github.com/netrox91)) developed a platform that matches people intending to use the same train route so they can share a ticket. We did most of the HCI together, afterwards I developed the backend and he did the app."
 
 educationcomplete:
     - degree: Master Degree in Games
