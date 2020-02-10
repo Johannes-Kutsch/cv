@@ -90,7 +90,7 @@ projects:
     assignments:
       - title: Wild Woods
         link: http://www.wildwoodsgame.com/
-        tagline: "Over the span of one year we (3 fellow students & I) developed a vertical slice of the game [Wild Woods](wildwoodsgame.com). My main tasks where:
+        tagline: "Over the span of one year we (3 fellow students & I) developed a vertical slice of an couch-coop-survival-action game. My main tasks where:
        
           - gameplay programming
           - world generation
