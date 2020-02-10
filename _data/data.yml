@@ -101,8 +101,8 @@ projects:
           - game design"
 
       - title: Potion Garden Witch
-        link: "#hook"
-        tagline: "A fully functional prototype of an overcooked clone, but with witches that need to grow and catch living plants to brew potions. It also supports online multiplayer."
+        link: "...."
+        tagline: "A fully functional prototype of an overcooked clone, but with witches that need to grow and catch living plants to brew potions. It also has a fully functional online multiplayer."
 
       - title: Game Jams
         link: "https://ruhken.itch.io/"
