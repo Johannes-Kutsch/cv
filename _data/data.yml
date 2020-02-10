@@ -102,7 +102,11 @@ projects:
 
       - title: Potion Garden Witch
         link: "#hook"
-        tagline: "A fully functional prototype for an overcooked clone, but with witches that need to grow and catch living plants to brew potions. It also supports online multiplayer."
+        tagline: "A fully functional prototype of an overcooked clone, but with witches that need to grow and catch living plants to brew potions. It also supports online multiplayer."
+
+      - title: Potion Garden Witch
+        link: "#hook"
+        tagline: "A fully functional prototype of an overcooked clone, but with witches that need to grow and catch living plants to brew potions. It also supports online multiplayer."
 
       - title: Game Jams
         link: "https://ruhken.itch.io/"
@@ -114,7 +118,7 @@ projects:
 
       - title: DT-Sharing
         link: "https://github.com/Johannes-Kutsch/EISSS16FriesenKutsch/blob/master/README.md"
-        tagline: "We ([a fellow student](https://github.com/netrox91) & me) developed a platform that matches people intending to use the same train route so they can share a ticket. We did most of the HCI together, afterwards I developed the backend and he did the app."
+        tagline: "We (a fellow [student](https://github.com/netrox91) & me) developed a platform that matches people intending to use the same train route so they can share a ticket. We did most of the HCI together, afterwards I developed the backend and he did the app."
 
 educationcomplete:
     - degree: Master Degree in Games
@@ -125,14 +129,14 @@ educationcomplete:
       university: Hamburg University of Applied Sciences
       time: 2019 - 2020
       details: |
-       Ich entwickel ein Data Pattern und das dazugehörige Plugin für einen auf scripable Objects basierende Architektur, bei der globale Variablen über scriptable Objects refferenziert werden. In Unity. Für Game Jams und schnelles prototypen.
-
+       I am currently working on this thesis. I am developing a Data Pattern and the coresponding Framework for Unity, based on the idea of splitting your code into small modules and connecting these modules via variables declared in scriptable objects. [[more info]](https://www.youtube.com/watch?v=raQ3iHhE_Kk)
+       
     - degree: Bachelor Degree in Media Computer Science
       university: Technical University of Cologne
       time: 2012 - 2017
 
     - degree: Bachelor Thesis
       university: Technical University of Cologne
-      time: 2016-2017
+      time: 2016 - 2017
       details: |
        I analyzed to what extent different, Monte-Carlo-based, learning algorithms are capable of solving the nondeterministic game 2048. I came to the conclusion, that medicore results can be reached quickly, but Monte-Carlo-based algorithms can't compete with modern, state of the art, agents. [[1]](http://www.gm.fh-koeln.de/~konen/research/PaperPDF/BA_JohannesKutsch_Final-2017.pdf) [[2]](https://youtu.be/Sbx5CO4VJ7U)
