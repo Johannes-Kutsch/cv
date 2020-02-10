@@ -90,7 +90,12 @@ projects:
     assignments:
       - title: Wild Woods
         link: http://www.wildwoodsgame.com/
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Over the span of one year we (3 fellow students & I) developed a vertical slice of the game [Wild Woods](wildwoodsgame.com). My main tasks where:
+       
+          - gameplay programming
+          - world generation
+          - AI
+          - game design"
 
       - title: Potion Garden Witch
         link: "#hook"
@@ -118,17 +123,6 @@ educationcomplete:
       time: 2019 - 2020
       details: |
        Ich entwickel ein Data Pattern und das dazugehörige Plugin für einen auf scripable Objects basierende Architektur, bei der globale Variablen über scriptable Objects refferenziert werden. In Unity. Für Game Jams und schnelles prototypen.
-
-    - degree: Master Project - Wild Woods
-      university: Hamburg University of Applied Sciences
-      time: 2018 - 2019
-      details: |
-       Over the span of one year we (3 fellow students & I) developed a vertical slice of the game [Wild Woods](wildwoodsgame.com). My main tasks where:
-       
-          - gameplay programming
-          - world generation
-          - AI
-          - game design
 
     - degree: Bachelor Degree in Media Computer Science
       university: Technical University of Cologne
