@@ -125,7 +125,7 @@ educationcomplete:
       university: Hamburg University of Applied Sciences
       time: 2019 - 2020
       details: |
-       I am currently working on this thesis. I am developing a data pattern and the coresponding framework for Unity, based on the idea of splitting your code into small modules and connecting these modules via variables declared in scriptable objects. [[more info]](https://www.youtube.com/watch?v=raQ3iHhE_Kk)
+       I am currently working on this thesis. I am developing a data pattern and the coresponding framework for Unity, based on the idea of splitting code into small modules and connecting those via variables declared in scriptable objects. [[more info]](https://www.youtube.com/watch?v=raQ3iHhE_Kk)
        
     - degree: Bachelor Degree in Media Computer Science
       university: Technical University of Cologne
