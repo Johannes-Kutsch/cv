@@ -135,4 +135,4 @@ educationcomplete:
       university: Technical University of Cologne
       time: 2016 - 2017
       details: |
-       I analyzed to what extent different, Monte-Carlo-based, learning algorithms are capable of solving the nondeterministic game 2048. I came to the conclusion, that mediocre results can be reached quickly, but Monte-Carlo-based algorithms can't compete with modern, state of the art, agents. [[1]](http://www.gm.fh-koeln.de/~konen/research/PaperPDF/BA_JohannesKutsch_Final-2017.pdf) [[2]](https://youtu.be/Sbx5CO4VJ7U)
+       I analyzed to what extent different, Monte-Carlo-based learning algorithms are capable of solving the nondeterministic game 2048. I came to the conclusion, that mediocre results can be reached quickly, but Monte-Carlo-based algorithms can't compete with modern, state of the art, agents. [[1]](http://www.gm.fh-koeln.de/~konen/research/PaperPDF/BA_JohannesKutsch_Final-2017.pdf) [[2]](https://youtu.be/Sbx5CO4VJ7U)
