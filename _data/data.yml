@@ -67,7 +67,7 @@ news:
 
     posts:
         - time: December 2019
-          title: '[Wild Woods](http://www.wildwoodsgame.com/) has been awarded with the [DEP-Award](https://www.deutscherentwicklerpreis.de/) (Deutscher Entwicklerpreis) in the category "Ubisoft Newcomer Award - Students".'
+          title: '[Wild Woods](http://www.wildwoodsgame.com/) has been awarded the [DEP-Award](https://www.deutscherentwicklerpreis.de/) (Deutscher Entwicklerpreis) in the category "Ubisoft Newcomer Award - Students".'
 
         - time: July 2019
           title: My [Bachelor Thesis](http://www.gm.fh-koeln.de/~konen/research/PaperPDF/BA_JohannesKutsch_Final-2017.pdf) got cited in [General Board Game Playing for Education and Research in Generic AI Game Learning](http://www.gm.fh-koeln.de/ciopwebpub/Kone19a.d/TR-GBG.pdf).
@@ -79,7 +79,7 @@ news:
           title: My [Bachelor Thesis](http://www.gm.fh-koeln.de/~konen/research/PaperPDF/BA_JohannesKutsch_Final-2017.pdf) got cited in [The GBG Class Interface Tutorial V2.0 - General Board Game Playing and Learning](https://arxiv.org/pdf/1907.06508.pdf).
 
         - time: November 2018
-          title: My [Bachelor Thesis](http://www.gm.fh-koeln.de/~konen/research/PaperPDF/BA_JohannesKutsch_Final-2017.pdf) has been awarded with the [CBC-Award](https://www.th-koeln.de/hochschule/cbc-foerderpreis-2018_60466.php) (Cologne Broadcasting Center).
+          title: My [Bachelor Thesis](http://www.gm.fh-koeln.de/~konen/research/PaperPDF/BA_JohannesKutsch_Final-2017.pdf) has been awarded the [CBC-Award](https://www.th-koeln.de/hochschule/cbc-foerderpreis-2018_60466.php) (Cologne Broadcasting Center).
 
           
 projects:
@@ -90,7 +90,7 @@ projects:
     assignments:
       - title: Wild Woods
         link: http://www.wildwoodsgame.com/
-        tagline: "Over the span of one year we (3 fellow students & me) developed a vertical slice of an couch-coop-survival-action game. My main tasks where:
+        tagline: "Over the span of one year we (3 fellow students & me) developed a vertical slice of a couch-coop-survival-action game. My main tasks where:
        
           - gameplay programming
 
@@ -125,7 +125,7 @@ educationcomplete:
       university: Hamburg University of Applied Sciences
       time: 2019 - 2020
       details: |
-       I am currently working on this thesis. I am developing a data pattern and the coresponding framework for Unity, based on the idea of splitting code into small components and connecting those via variables declared in scriptable objects. [[more info]](https://www.youtube.com/watch?v=raQ3iHhE_Kk)
+       I am currently working on this thesis. I am developing a data pattern and the corresponding framework for Unity, based on the idea of splitting code into small components and connecting those via variables declared in scriptable objects. [[more info]](https://www.youtube.com/watch?v=raQ3iHhE_Kk)
        
     - degree: Bachelor Degree in Media Computer Science
       university: Technical University of Cologne
@@ -135,4 +135,4 @@ educationcomplete:
       university: Technical University of Cologne
       time: 2016 - 2017
       details: |
-       I analyzed to what extent different, Monte-Carlo-based, learning algorithms are capable of solving the nondeterministic game 2048. I came to the conclusion, that medicore results can be reached quickly, but Monte-Carlo-based algorithms can't compete with modern, state of the art, agents. [[1]](http://www.gm.fh-koeln.de/~konen/research/PaperPDF/BA_JohannesKutsch_Final-2017.pdf) [[2]](https://youtu.be/Sbx5CO4VJ7U)
+       I analyzed to what extent different, Monte-Carlo-based, learning algorithms are capable of solving the nondeterministic game 2048. I came to the conclusion, that mediocre results can be reached quickly, but Monte-Carlo-based algorithms can't compete with modern, state of the art, agents. [[1]](http://www.gm.fh-koeln.de/~konen/research/PaperPDF/BA_JohannesKutsch_Final-2017.pdf) [[2]](https://youtu.be/Sbx5CO4VJ7U)
