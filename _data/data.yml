@@ -56,9 +56,7 @@ education:
       time: 2012 - 2017
       details: |
 
-career:
-
-profile:
+career-profile::
     title: Introduction
     summary: |
       Hello and welcome to my CV! I finished my bachelor's degree in Media Computer Science in late 2017. After that, I decided to pursue my passion for games and started studying Games at the HAW Hamburg, Germany’s oldest games course. I am currently in the process of writing my master thesis, which I expect to finish at the end of May.
