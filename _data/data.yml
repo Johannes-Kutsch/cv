@@ -66,6 +66,9 @@ news:
     intro: |
 
     posts:
+        - time: April 2020
+          title: '[Wild Woods](http://www.wildwoodsgame.com/) has been nominated for the [DCP-Award](https://deutscher-computerspielpreis.de/) (Deutscher Computerspielepreis) in the category "Newcomer Award – Best Prototype".'
+    
         - time: December 2019
           title: '[Wild Woods](http://www.wildwoodsgame.com/) has been awarded the [DEP-Award](https://www.deutscherentwicklerpreis.de/) (Deutscher Entwicklerpreis) in the category "Ubisoft Newcomer Award - Students".'
 
