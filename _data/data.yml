@@ -95,13 +95,13 @@ projects:
         link: http://www.wildwoodsgame.com/
         tagline: "Over the span of one year we (3 fellow students & me) developed a vertical slice of a couch-coop-survival-action game. My main tasks where:
        
+          - game design
+
           - gameplay programming
 
           - world generation
 
-          - AI
-
-          - game design"
+          - AI"
 
       - title: Potion Garden Witch
         link: "https://youtu.be/oyQCkBeQ-z8"
