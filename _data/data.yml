@@ -64,6 +64,47 @@ career-profile:
     summary: |
       Hello and welcome to my CV! I finished my bachelor's degree in Media Computer Science in late 2017. After that, I decided to pursue my passion for games and started studying Games at the HAW Hamburg, Germany’s oldest games course. I am currently in the process of writing my master thesis, which I expect to finish at the end of May.
 
+projects:
+    title: Projects
+    intro: >
+
+    assignments:
+      - title: Wild Woods
+        link: http://www.wildwoodsgame.com/
+        tagline: "Over the span of one year we (3 fellow students & me) developed a vertical slice of a couch-coop-survival-action game. My main tasks where:
+       
+          - game design
+
+          - gameplay programming
+
+          - world generation
+
+          - AI"
+
+      - title: EDDi - Epidemic Disease Detectives Hamburg
+        link: https://www.hoou.de/projects/eddi-epidemic-disease-detectives-hamburg/preview
+        tagline: "A serious game that provides a playful learning opportunity to learn infection epidemiological knowledge. My main tasks where:
+       
+          - game design
+
+          - gameplay programming"
+
+      - title: Potion Garden Witch
+        link: "https://youtu.be/oyQCkBeQ-z8"
+        tagline: "A prototype of an overcooked inspired game, but with witches that need to grow and catch living plants to brew potions. It also features fully functional online multiplayer."
+
+      - title: Game Jams
+        link: "https://ruhken.itch.io/"
+        tagline: "During the last few years I participated in a few game jams. Some of the resulting games can be found on my itch page."
+
+      - title: Pockethealer
+        link: "https://github.com/Johannes-Kutsch/Pocket-Healer"
+        tagline: "The first video game I ever created. Pocket Healer is a mobile game that features an MMO inspired combat system, broken down to its essentials. You are placed in the role of a healer and it is your job to keep your party alive until the boss is defeated."
+
+      - title: DT-Sharing
+        link: "https://github.com/Johannes-Kutsch/EISSS16FriesenKutsch/blob/master/README.md"
+        tagline: "We (a fellow [student](https://github.com/netrox91) & me) developed a platform that matches people intending to use the same train route so they can share a ticket. We did most of the HCI together, afterwards I developed the backend and algorithms while he created the app."
+
 news:
     title: News
     intro: |
@@ -104,49 +145,6 @@ news:
 
         - time: November 2018
           title: My [Bachelor Thesis](http://www.gm.fh-koeln.de/~konen/research/PaperPDF/BA_JohannesKutsch_Final-2017.pdf) has been awarded the [CBC-Award](https://www.th-koeln.de/hochschule/cbc-foerderpreis-2018_60466.php) (Cologne Broadcasting Center).
-
-          
-projects:
-    title: Projects
-    intro: >
-
-    
-    assignments:
-      - title: Wild Woods
-        link: http://www.wildwoodsgame.com/
-        tagline: "Over the span of one year we (3 fellow students & me) developed a vertical slice of a couch-coop-survival-action game. My main tasks where:
-       
-          - game design
-
-          - gameplay programming
-
-          - world generation
-
-          - AI"
-
-      - title: EDDi - Epidemic Disease Detectives Hamburg
-        link: https://www.hoou.de/projects/eddi-epidemic-disease-detectives-hamburg/preview
-        tagline: "A serious game that provides a playful learning opportunity to learn infection epidemiological knowledge. My main tasks where:
-       
-          - game design
-
-          - gameplay programming"
-
-      - title: Potion Garden Witch
-        link: "https://youtu.be/oyQCkBeQ-z8"
-        tagline: "A prototype of an overcooked inspired game, but with witches that need to grow and catch living plants to brew potions. It also features fully functional online multiplayer."
-
-      - title: Game Jams
-        link: "https://ruhken.itch.io/"
-        tagline: "During the last few years I participated in a few game jams. Some of the resulting games can be found on my itch page."
-
-      - title: Pockethealer
-        link: "https://github.com/Johannes-Kutsch/Pocket-Healer"
-        tagline: "The first video game I ever created. Pocket Healer is a mobile game that features an MMO inspired combat system, broken down to its essentials. You are placed in the role of a healer and it is your job to keep your party alive until the boss is defeated."
-
-      - title: DT-Sharing
-        link: "https://github.com/Johannes-Kutsch/EISSS16FriesenKutsch/blob/master/README.md"
-        tagline: "We (a fellow [student](https://github.com/netrox91) & me) developed a platform that matches people intending to use the same train route so they can share a ticket. We did most of the HCI together, afterwards I developed the backend and algorithms while he created the app."
 
 educationcomplete:
     - degree: Master Degree in Games
