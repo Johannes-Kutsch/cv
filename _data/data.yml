@@ -66,6 +66,24 @@ news:
     intro: |
 
     posts:
+        - time: April 2022
+          title: '[Wild Woods](http://www.wildwoodsgame.com/) will be published by [Daedalic Entertainment](https://www.daedalic.com/).'
+
+        - time: April 2022
+          title: '[Wild Woods](http://www.wildwoodsgame.com/) now has a [steam page](https://store.steampowered.com/app/1975580/Wild_Woods).'
+
+        - time: December 2021
+          title: 'Child reporter Imani-Lou [visited](https://www.kindernetz.de/tigerenten-club/imani-lou-schaut-sich-an-wie-ein-computerspiel-entsteht-100.html) the Team of [Wild Woods](http://www.wildwoodsgame.com/).'
+
+        - time: July 2021
+          title: 'A first prototype for [EDDi](https://www.hoou.de/projects/eddi-epidemic-disease-detectives-hamburg/preview), has been released.'
+
+        - time: Jan 2021
+          title: 'Ubisoft [interviewed](https://www.youtube.com/watch?v=k_RzWVq1CsI) the Team of [Wild Woods](http://www.wildwoodsgame.com/) about our experience as newcomers.'
+
+        - time: June 2020
+          title: '[Wild Woods](http://www.wildwoodsgame.com/) received the [Hamburg Prototype Grand](https://www.gamecity-hamburg.de/de/projects/wild-woods/).'
+
         - time: April 2020
           title: '[Wild Woods](http://www.wildwoodsgame.com/) has been nominated for the [DCP-Award](https://deutscher-computerspielpreis.de/) (Deutscher Computerspielepreis) in the category "Newcomer Award - Best Prototype".'
     
@@ -102,6 +120,14 @@ projects:
           - world generation
 
           - AI"
+
+      - title: EDDi - Epidemic Disease Detectives Hamburg
+        link: https://www.hoou.de/projects/eddi-epidemic-disease-detectives-hamburg/preview
+        tagline: "A serious game that provides a playful learning opportunity to learn infection epidemiological knowledge. My main tasks where:
+       
+          - game design
+
+          - gameplay programming
 
       - title: Potion Garden Witch
         link: "https://youtu.be/oyQCkBeQ-z8"
