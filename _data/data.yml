@@ -62,40 +62,34 @@ education:
 career-profile:
     title: Introduction
     summary: |
-      Hello and welcome to my CV! I finished my bachelor's degree in Media Computer Science in late 2017. After that, I decided to pursue my passion for games and studied Games at the HAW Hamburg. Currently I am developing the Videogame [Wild Woods](http://www.wildwoodsgame.com/) at Octofox Games, a small Indie Studio that I founded in 2022 with some fellow students.
+      Hello and welcome to my CV! I finished my bachelor's degree in Media Computer Science in late 2017. After that, I decided to pursue my passion for games and studied Games at the HAW Hamburg. Currently I am developing the Videogame [Wild Woods](http://www.wildwoodsgame.com/) at Octofox Games, a small Indie Studio that I founded together with 3 fellow students in 2022.
+
+
 
 projects:
     title: Projects
     intro: >
 
     assignments:
-      - title: Work at Ocotofox Games - Wild Woods (Full Title)
+      - title: Wild Woods
         link: http://www.wildwoodsgame.com/
-        tagline: "Over the span of two years I continued working at Wild Woods, this time self employed and with the goal of relasing a full title. My main tasks where:
+        tagline: "Over the span of one year we (3 fellow students & me) developed a vertical slice of a couch-coop-survival-action game. After finishing university and securing funding we founded the Indie Studio Octofx Games.
+          My main tasks include:
+            - world generation
+            - AI
+            - gameplay programming, focusing on the core game loop including the Upgrade- and Challenge-System
+            - network prgramming
+            - tool programming
 
-          - gameplay programming
-
-          - network prgramming
-
-          - project management and coordination
-          
-          - publisher negotiations"
-
-      - title: Wild Woods (Vertical Slice)
-        link: http://www.wildwoodsgame.com/
-        tagline: "Over the span of one year we (3 fellow students & me) developed a vertical slice of a couch-coop-survival-action game. My main tasks where:
-
-          - game design
-
-          - gameplay programming
-
-          - world generation
-
-          - AI"
+          My additional tasks include:
+            - game design
+            - project management and coordination
+            - creating spreadsheets
+            - publisher negotiations"
 
       - title: EDDi - Epidemic Disease Detectives Hamburg
         link: https://www.hoou.de/projects/eddi-epidemic-disease-detectives-hamburg/preview
-        tagline: "A serious game that provides a playful learning opportunity to learn infection epidemiological knowledge. My main tasks where:
+        tagline: "A serious game that provides a playful learning opportunity to learn infection epidemiological knowledge. My main tasks include:
        
           - game design
 
@@ -111,11 +105,47 @@ projects:
 
       - title: Pockethealer
         link: "https://github.com/Johannes-Kutsch/Pocket-Healer"
-        tagline: "The first video game I ever created. Pocket Healer is a mobile game that features an MMO inspired combat system, broken down to its essentials. You are placed in the role of a healer and it is your job to keep your party alive until the boss is defeated."
+        tagline: "The first video game I ever created on my own. Pocket Healer is a mobile game that features an MMO inspired combat system, broken down to its essentials. You are placed in the role of a healer and it is your job to keep your party alive until the boss is defeated."
 
       - title: DT-Sharing
         link: "https://github.com/Johannes-Kutsch/EISSS16FriesenKutsch/blob/master/README.md"
         tagline: "We (a fellow [student](https://github.com/netrox91) & me) developed a platform that matches people intending to use the same train route so they can share a ticket. We did most of the HCI together, afterwards I developed the backend and algorithms while he created the frontend."
+
+experiences:
+    title: Experiences
+    info:
+      - role: Game Dev and Partner
+        time: 2022 - present
+        company: Octofox Games
+        details: |
+          "After securing funding we founded the Indie Studio Octofox Games."
+        
+      - role: Game Dev
+        time: 2020 - 2022
+        company: self-employed
+        details: |
+          "During this time I worked on the Serious Game EDDI while continuing work on Wild Woods."
+
+educationcomplete:
+    - degree: Master Degree in Games
+      university: Hamburg University of Applied Sciences
+      time: 2018 - 2020
+
+    - degree: Master Thesis
+      university: Editor- and runtime-programming in Unity
+      time: 2019 - 2020
+      details: |
+       I am currently working on this thesis. I am developing a data pattern and the corresponding framework for Unity, based on the idea of splitting code into small components and connecting those via variables declared in scriptable objects. [[more info]](https://www.youtube.com/watch?v=raQ3iHhE_Kk)
+       
+    - degree: Bachelor Degree in Media Computer Science
+      university: Technical University of Cologne
+      time: 2012 - 2017
+
+    - degree: Bachelor Thesis
+      university: Conception and development in java
+      time: 2016 - 2017
+      details: |
+       I analyzed to what extent different, Monte-Carlo-based learning algorithms are capable of solving the nondeterministic game 2048. I came to the conclusion, that mediocre results can be reached quickly, but Monte-Carlo-based algorithms can't compete with modern, state of the art, agents. [[1]](http://www.gm.fh-koeln.de/~konen/research/PaperPDF/BA_JohannesKutsch_Final-2017.pdf) [[2]](https://youtu.be/Sbx5CO4VJ7U)
 
 news:
     title: News
@@ -161,23 +191,3 @@ news:
         - time: November 2018
           title: My [Bachelor Thesis](http://www.gm.fh-koeln.de/~konen/research/PaperPDF/BA_JohannesKutsch_Final-2017.pdf) has been awarded the [CBC-Award](https://www.th-koeln.de/hochschule/cbc-foerderpreis-2018_60466.php) (Cologne Broadcasting Center).
 
-educationcomplete:
-    - degree: Master Degree in Games
-      university: Hamburg University of Applied Sciences
-      time: 2018 - 2020
-
-    - degree: Master Thesis
-      university: Editor- and runtime-programming in Unity
-      time: 2019 - 2020
-      details: |
-       I am currently working on this thesis. I am developing a data pattern and the corresponding framework for Unity, based on the idea of splitting code into small components and connecting those via variables declared in scriptable objects. [[more info]](https://www.youtube.com/watch?v=raQ3iHhE_Kk)
-       
-    - degree: Bachelor Degree in Media Computer Science
-      university: Technical University of Cologne
-      time: 2012 - 2017
-
-    - degree: Bachelor Thesis
-      university: Conception and development in java
-      time: 2016 - 2017
-      details: |
-       I analyzed to what extent different, Monte-Carlo-based learning algorithms are capable of solving the nondeterministic game 2048. I came to the conclusion, that mediocre results can be reached quickly, but Monte-Carlo-based algorithms can't compete with modern, state of the art, agents. [[1]](http://www.gm.fh-koeln.de/~konen/research/PaperPDF/BA_JohannesKutsch_Final-2017.pdf) [[2]](https://youtu.be/Sbx5CO4VJ7U)
