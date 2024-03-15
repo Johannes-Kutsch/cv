@@ -117,14 +117,12 @@ experiences:
       - role: Game Dev and Partner
         time: 2022 - present
         company: Octofox Games
-        details: |
-          After securing funding we founded the Indie Studio Octofox Games.
-        
+        details: After securing funding we founded the Indie Studio Octofox Games.
+
       - role: Game Dev
         time: 2020 - 2022
         company: self-employed
-        details: |
-          During this time I worked on the Serious Game EDDI while continuing work on Wild Woods.
+        details: During this time I worked on the Serious Game EDDI while continuing work on Wild Woods.
 
 educationcomplete:
     - degree: Master Degree in Games
