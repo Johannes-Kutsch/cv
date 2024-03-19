@@ -87,18 +87,19 @@ projects:
 
 experiences:
       - role: Game Dev and Partner
-        time: 2022 - present
+        time: 2021 - present
         company: Octofox Games
         details: After securing funding we founded the Indie Studio Octofox Games.
 
       - role: Game Dev
-        time: 2020 - 2022
+        time: 2020 - 2021
         company: self-employed
-        details: During this time I worked on the serious game [EDDi - Epidemic Disease Detectives Hamburg](https://www.hoou.de/projects/eddi-epidemic-disease-detectives-hamburg/preview) while continuing work on Wild Woods. "Eddi is a serious game that provides a playful learning opportunity to learn infection epidemiological knowledge. My main tasks include:
+        details: During this time I worked on the serious game [EDDi - Epidemic Disease Detectives Hamburg](https://www.hoou.de/projects/eddi-epidemic-disease-detectives-hamburg/preview) while continuing work on Wild Woods. 
+        Eddi is a serious game that provides a playful learning opportunity to learn infection epidemiological knowledge. My main tasks include
        
           - game design
 
-          - gameplay programming"
+          - gameplay programming
 
 educationcomplete:
     - degree: Master Degree in Games
