@@ -91,31 +91,6 @@ experiences:
         company: Octofox Games
         details: After securing funding we founded the Indie Studio Octofox Games.
 
-      - title: Wild Woods
-        link: http://www.wildwoodsgame.com/
-        tagline: "Over the span of one year we (3 fellow students & me) developed a vertical slice of a couch-coop-survival-action game. After finishing university and securing funding we founded the Indie Studio Octofx Games.
-          My main tasks include:
-
-            - world generation
-
-            - AI
-
-            - gameplay programming, focusing on the core game loop including the Upgrade- and Challenge-System
-
-            - network prgramming
-
-            - tool programming\
-
-          My additional tasks include:
-
-            - game design
-
-            - project management and coordination
-
-            - creating spreadsheets
-            
-            - publisher negotiations"
-
       - role: Game Dev
         time: 2020 - 2022
         company: self-employed
