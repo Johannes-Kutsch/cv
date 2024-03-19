@@ -66,19 +66,14 @@ career-profile:
 
 experiences:
       - role: Game Dev and Partner
-        time: 2021 - present
+        time: 2022 - present
         company: Octofox Games
-        details: After securing funding we founded the Indie Studio Octofox Games.
+        details: After securing funding for Wild Woods we founded the Indie Studio Octofox Games. During my time at Octofox Games, I was responsible for various areas. My work on the game primarily involved network programming, world generation (including a flexible slot and module system), AI and gameplay programming (focusing on the core game loop, including the Upgrade and Challenge Systems). Additionally, I created various tools to simplify the work of level and game designers. Beyond game development, I contributed to game design, project management and coordination, created various complex spreadsheets, and played a pivotal role in publisher negotiations.
 
       - role: Game Dev
-        time: 2020 - 2021
+        time: 2020 - 2022
         company: self-employed
-        details: During this time I worked on the serious game [EDDi - Epidemic Disease Detectives Hamburg](https://www.hoou.de/projects/eddi-epidemic-disease-detectives-hamburg/preview) while continuing work on Wild Woods. 
-        Eddi is a serious game that provides a playful learning opportunity to learn infection epidemiological knowledge. My main tasks include
-       
-          - game design
-
-          - gameplay programming
+        details: While continuing work on Wild Woods I worked on the serious game [EDDi - Epidemic Disease Detectives Hamburg](https://www.hoou.de/projects/eddi-epidemic-disease-detectives-hamburg/preview). Eddi is a serious game that provides a playful learning opportunity to learn infection epidemiological knowledge. I was responsible for programming and the game Design.
 
 educationcomplete:
     - degree: Master Degree in Games
@@ -106,6 +101,18 @@ projects:
     intro: >
 
     assignments:
+      - title: Wild Woods (Vertical Slice)
+        link: https://www.gamesmaster-hamburg.de/portfolio-items/wild-woods/
+        tagline: "Over the span of one year we (3 fellow students & me) developed a vertical slice of a couch-coop-survival-action game. My main tasks where:
+
+          - game design
+
+          - gameplay programming
+
+          - world generation
+
+          - AI"
+
       - title: Potion Garden Witch
         link: "https://youtu.be/oyQCkBeQ-z8"
         tagline: "A prototype of an overcooked inspired game, but with witches that need to grow and catch living plants to brew potions. It also features fully functional online multiplayer."
