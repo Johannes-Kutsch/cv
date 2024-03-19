@@ -64,13 +64,33 @@ career-profile:
     summary: |
       Hello and welcome to my CV! I finished my bachelor's degree in Media Computer Science in late 2017. After that, I decided to pursue my passion for games and studied Games at the HAW Hamburg. Currently I am developing the Videogame [Wild Woods](http://www.wildwoodsgame.com/) at Octofox Games, a small Indie Studio that I founded together with 3 fellow students in 2022.
 
-
-
 projects:
     title: Projects
     intro: >
 
     assignments:
+      - title: Potion Garden Witch
+        link: "https://youtu.be/oyQCkBeQ-z8"
+        tagline: "A prototype of an overcooked inspired game, but with witches that need to grow and catch living plants to brew potions. It also features fully functional online multiplayer."
+
+      - title: Game Jams
+        link: "https://ruhken.itch.io/"
+        tagline: "During the last few years I participated in a few game jams. Some of the resulting games can be found on my itch page."
+
+      - title: Pockethealer
+        link: "https://github.com/Johannes-Kutsch/Pocket-Healer"
+        tagline: "The first video game I ever created on my own. Pocket Healer is a mobile game that features an MMO inspired combat system, broken down to its essentials. You are placed in the role of a healer and it is your job to keep your party alive until the boss is defeated."
+
+      - title: DT-Sharing
+        link: "https://github.com/Johannes-Kutsch/EISSS16FriesenKutsch/blob/master/README.md"
+        tagline: "We (a fellow [student](https://github.com/netrox91) & me) developed a platform that matches people intending to use the same train route so they can share a ticket. We did most of the HCI together, afterwards I developed the backend and algorithms while he created the frontend."
+
+experiences:
+      - role: Game Dev and Partner
+        time: 2022 - present
+        company: Octofox Games
+        details: After securing funding we founded the Indie Studio Octofox Games.
+
       - title: Wild Woods
         link: http://www.wildwoodsgame.com/
         tagline: "Over the span of one year we (3 fellow students & me) developed a vertical slice of a couch-coop-survival-action game. After finishing university and securing funding we founded the Indie Studio Octofx Games.
@@ -96,40 +116,14 @@ projects:
             
             - publisher negotiations"
 
-      - title: EDDi - Epidemic Disease Detectives Hamburg
-        link: https://www.hoou.de/projects/eddi-epidemic-disease-detectives-hamburg/preview
-        tagline: "A serious game that provides a playful learning opportunity to learn infection epidemiological knowledge. My main tasks include:
+      - role: Game Dev
+        time: 2020 - 2022
+        company: self-employed
+        details: During this time I worked on the serious game [EDDi - Epidemic Disease Detectives Hamburg](https://www.hoou.de/projects/eddi-epidemic-disease-detectives-hamburg/preview) while continuing work on Wild Woods. "Eddi is a serious game that provides a playful learning opportunity to learn infection epidemiological knowledge. My main tasks include:
        
           - game design
 
           - gameplay programming"
-
-      - title: Potion Garden Witch
-        link: "https://youtu.be/oyQCkBeQ-z8"
-        tagline: "A prototype of an overcooked inspired game, but with witches that need to grow and catch living plants to brew potions. It also features fully functional online multiplayer."
-
-      - title: Game Jams
-        link: "https://ruhken.itch.io/"
-        tagline: "During the last few years I participated in a few game jams. Some of the resulting games can be found on my itch page."
-
-      - title: Pockethealer
-        link: "https://github.com/Johannes-Kutsch/Pocket-Healer"
-        tagline: "The first video game I ever created on my own. Pocket Healer is a mobile game that features an MMO inspired combat system, broken down to its essentials. You are placed in the role of a healer and it is your job to keep your party alive until the boss is defeated."
-
-      - title: DT-Sharing
-        link: "https://github.com/Johannes-Kutsch/EISSS16FriesenKutsch/blob/master/README.md"
-        tagline: "We (a fellow [student](https://github.com/netrox91) & me) developed a platform that matches people intending to use the same train route so they can share a ticket. We did most of the HCI together, afterwards I developed the backend and algorithms while he created the frontend."
-
-experiences:
-      - role: Game Dev and Partner
-        time: 2022 - present
-        company: Octofox Games
-        details: After securing funding we founded the Indie Studio Octofox Games.
-
-      - role: Game Dev
-        time: 2020 - 2022
-        company: self-employed
-        details: During this time I worked on the Serious Game EDDI while continuing work on Wild Woods.
 
 educationcomplete:
     - degree: Master Degree in Games
